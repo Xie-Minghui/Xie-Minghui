@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning NLP, I major in Computer Science in CQU(2017-2021).
-[![mangonihao's github stats](https://github-readme-stats.vercel.app/api?username=mangonihao&theme=dracula)](https://github.com/mangonihao/github-readme-stats)
+[![mangonihao's github stats](https://github-readme-stats.vercel.app/api?username=mangonihao&theme=dracula&show_icons=true&count_private=true)](https://github.com/mangonihao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangonihao&layout=compact)](https://github.com/mangonihao/github-readme-stats)
