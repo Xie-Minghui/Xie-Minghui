@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning NLP, I major in Computer Science in CQU(2017-2021).
+[![mangonihao's github stats](https://github-readme-stats.vercel.app/api?username=mangonihao?theme=dracula)](https://github.com/mangonihao/github-readme-stats)
