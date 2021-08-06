@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋
 
 🌱 😜 Hello😆, I’m currently learning Dialogue System, Model Compression and Tensor Network, mainly  Dialogue System. I major in Computer Science in CQU(2017-2021).
 
