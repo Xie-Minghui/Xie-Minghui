@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋
+
 🌱 😜 Hello😆, I’m currently learning Dialogue System, Model Compression and Tensor Network, mainly  Dialogue System. I major in Computer Science in CQU(2017-2021).
+
 ❤️Any suggestions will be appreciated!❤️
 [![mangonihao's github stats](https://github-readme-stats.vercel.app/api?username=mangonihao&theme=dracula&show_icons=true&count_private=true)](https://github.com/mangonihao/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangonihao&layout=compact&&hide=javascript,html,css)](https://github.com/mangonihao/github-readme-stats)
