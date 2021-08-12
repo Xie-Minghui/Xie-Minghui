@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 😜 Hello😆, I’m currently learning Dialogue System, Model Compression and Tensor Network, mainly  Dialogue System. I major in Computer Science in CQU(2017-2021).
+😜 Hello😆,  I major in Computer Science in CQU(2017-2021).
+- 🌱 I’m currently learning Dialogue System, Model Compression and Tensor Network, mainly  Dialogue System.
+- 👯 I’m looking to collaborate on Dialogue System, Model Compression.
+- 📫 How to reach me: mangopuddingxie@gmail.com
 
 ❤️Any suggestions will be appreciated!❤️
 
