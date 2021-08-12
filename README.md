@@ -30,11 +30,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-PHP     4 hrs 39 mins   ███████████▒░░░░░░░░░░░░░   45.48 % 
-Swift   2 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   29.34 % 
-C++     1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-HTML    25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-Other   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
