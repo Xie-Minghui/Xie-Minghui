@@ -20,6 +20,17 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Dialogue System, Model Compression.
 - ⚒️ Python/C++, a little bit Java
 - 📫 How to reach me: mangopuddingxie@gmail.com
+- 🚀 I use daily:
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+- 💻 I work using:
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+- ⚡️ Fun fact: I love anime.
+  
+
 
 ❤️Any suggestions will be appreciated!❤️
 
