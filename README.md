@@ -39,4 +39,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangonihao&layout=compact&&hide=javascript,html,css)](https://github.com/mangonihao/github-readme-stats)
 
 #### Coding status last week ⌨️
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
