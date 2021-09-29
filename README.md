@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 #### Coding status last week ⌨️
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 1 min     ████████████████████████▓   99.29 % 
+Python       3 hrs 34 mins   ███████████████████████▒░   92.98 % 
+Text         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 <!--END_SECTION:waka-->
 
