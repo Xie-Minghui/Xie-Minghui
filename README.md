@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 😜 Hello😆,  I major in Computer Science in CQU(2017-2021).
-- 🌱 I’m currently learning Dialogue System, Model Compression and Tensor Network, mainly  Dialogue System.
+- 🌱 I’m currently learning Knowledge base Question Answer, Dialogue System, , mainly KBQA.
 - 👯 I’m looking to collaborate on Dialogue System, Model Compression.
 - ⚒️ Python/C++, a little bit Java
 - 📫 How to reach me: mangopuddingxie@gmail.com
