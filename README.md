@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 #### Coding status last week ⌨️
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python      18 mins         ███████████████▒░░░░░░░░░   61.42 % 
+Markdown    11 mins         █████████▒░░░░░░░░░░░░░░░   37.38 % 
 ```
 <!--END_SECTION:waka-->
 
