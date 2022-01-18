@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 😜 Hello😆,  I major in Computer Science in CQU(2017-2021).
-- 🌱 I’m currently learning Knowledge base Question Answer, Dialogue System, mainly KBQA.
+- 🌱 I’m currently learning Knowledge Based Question Answer, Dialogue System, mainly KBQA.
 - 👯 I’m looking to collaborate on KBQA and Dialogue System.
 - ⚒️ Python/C++, a little bit Java
-- 📫 How to reach me: mangopuddingxie@gmail.com
+- 📫 How to reach me: mangopuddingxie@gmail.com or 2075419247@qq.com
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
