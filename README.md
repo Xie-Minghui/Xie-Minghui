@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😜 Hello😆,  I major in Computer Science in CQU(2017-2021).
+😜 Hello😆,  I major in Computer Science in CQU(2017-2021), and Natural Language Processing in TJU(2021-)
 - 🌱 I’m currently learning Knowledge Based Question Answer, Dialogue System, mainly KBQA.
 - 👯 I’m looking to collaborate on KBQA and Dialogue System.
 - ⚒️ Python/C++, a little bit Java
