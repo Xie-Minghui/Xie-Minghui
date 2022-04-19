@@ -37,10 +37,14 @@ Here are some ideas to get you started:
 
 ❤️Any suggestions will be appreciated!❤️
 
-[![mangonihao's github stats](https://github-readme-stats.vercel.app/api?username=mangonihao&theme=dracula&show_icons=true&count_private=true)](https://github.com/mangonihao/github-readme-stats)
+<div align="center">
+ |<img align="center" src="https://github-readme-stats.vercel.app/api?username=mangonihao&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mango's github stats" /></a> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangonihao&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+</div>
+<!-- [![mangonihao's github stats](https://github-readme-stats.vercel.app/api?username=mangonihao&theme=dracula&show_icons=true&count_private=true)](https://github.com/mangonihao/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangonihao&layout=compact&&hide=javascript,html,css)](https://github.com/mangonihao/github-readme-stats)
-
+ -->
 #### Coding status last week ⌨️
 <!--START_SECTION:waka-->
 
