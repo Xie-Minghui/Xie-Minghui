@@ -1,5 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-
+<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
+<hr/>
 
 <!--
 **mangonihao/mangonihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="middle" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
-<hr/>
 
 😜 Hello😆,  I major in Computer Science in CQU(2017-2021), and Natural Language Processing in TJU(2021-)
 - 🌱 I’m currently learning Knowledge Based Question Answer, Dialogue System, mainly KBQA.
