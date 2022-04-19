@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
+<img align="middle" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
 <hr/>
 
 😜 Hello😆,  I major in Computer Science in CQU(2017-2021), and Natural Language Processing in TJU(2021-)
