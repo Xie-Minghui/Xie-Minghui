@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
 
 <!--
 **mangonihao/mangonihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi, bro!
-
+👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
 <hr/>
 
