@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<img align="center" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
+<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="100" width="150">
 
 <!--
 **mangonihao/mangonihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
