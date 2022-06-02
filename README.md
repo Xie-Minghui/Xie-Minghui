@@ -2,7 +2,6 @@
 <img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="200">
 <hr>
 
-<!--
 **mangonihao/mangonihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi, bro!
 👋
