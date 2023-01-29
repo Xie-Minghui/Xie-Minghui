@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on KBQA and Dialogue System.
 - ⚒️ Python/C++, a little bit Java
 - 🎯 Goal (2022): make big money💰.
-- 📫 How to reach me: mangopuddingxie@gmail.com or 2075419247@qq.com
+- 📫 How to reach me: mangopuddingxie@gmail.com
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
