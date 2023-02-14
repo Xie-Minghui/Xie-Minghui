@@ -4,10 +4,10 @@
 <hr>
 
 😜 Hello😆,  I major in Computer Science in CQU(2017-2021), and Natural Language Processing in TJU(2021-)
-- 💻 I’m currently learning Knowledge Based Question Answer, Dialogue System, mainly KBQA.
-- 👯 I’m looking to collaborate on KBQA and Dialogue System.
+- 💻 I’m currently learning Knowledge Based Question Answer, Dialogue System and Pretrain Language Models.
+- 👯 I’m looking to collaborate on KBQA, Dialogue System and Pretrain Language Models.
 - ⚒️ Python/C++, a little bit Java
-- 🎯 Goal (2022): make big money💰.
+- 🎯 Goal (2023): make big money💰.
 - 📫 How to reach me: mangopuddingxie@gmail.com
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
