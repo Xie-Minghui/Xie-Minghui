@@ -42,4 +42,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Xie-Minghui&type=Timeline)](https://star-history.com/#Xie-Minghui&Date)
+# [![Star History Chart](https://api.star-history.com/svg?repos=Xie-Minghui/MultiHeadJointEntityRelationExtraction_simple&type=Timeline)](https://star-history.com/#Xie-Minghui/MultiHeadJointEntityRelationExtraction_simple&Date)
